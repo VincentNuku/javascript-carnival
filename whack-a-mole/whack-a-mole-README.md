@@ -1,4 +1,4 @@
-[Home](../README.md)|
+e[Home](../README.md)|
 ---|
 
 # Whack-a-Mole
